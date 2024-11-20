@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norhanahmed38" alt="norhanahmed38" /></a> </p>
 
-- 🌱  I’m currently working as an **Application Operation Engineer** at [Giza Systems]
-
-- 👨‍💻 All of my projects are available at [https://github.com/Norhanahmed38/](https://github.com/Norhanahmed38/)
+- 🌱  I’m currently working as an **Application Operation Engineer** at Giza Systems
 
 - 📫 How to reach me Norhan.ahmed8262@gmail.com
 
